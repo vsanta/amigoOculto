@@ -1,0 +1,8 @@
+- name: Jose
+  email: jose@example.com
+  black_list:
+    - Jose
+- name: Roberto
+  email: roberto@example.com
+  black_list:
+  - Roberto

@@ -1,0 +1,4 @@
+.bundle
+.git
+Gemfile.lock
+.idea/
